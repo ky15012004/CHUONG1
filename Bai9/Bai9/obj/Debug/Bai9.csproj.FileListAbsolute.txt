@@ -1,0 +1,6 @@
+E:\HOCKY2-NAM3\C#\Bai9\Bai9\bin\Debug\Bai9.exe.config
+E:\HOCKY2-NAM3\C#\Bai9\Bai9\bin\Debug\Bai9.exe
+E:\HOCKY2-NAM3\C#\Bai9\Bai9\bin\Debug\Bai9.pdb
+E:\HOCKY2-NAM3\C#\Bai9\Bai9\obj\Debug\Bai9.csproj.CoreCompileInputs.cache
+E:\HOCKY2-NAM3\C#\Bai9\Bai9\obj\Debug\Bai9.exe
+E:\HOCKY2-NAM3\C#\Bai9\Bai9\obj\Debug\Bai9.pdb

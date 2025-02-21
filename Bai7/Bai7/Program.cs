@@ -10,6 +10,7 @@ namespace Bai7
     {
         static void Main(string[] args)
         {
+            //commit lan3
             int n_224;
             List<int> soNguyen_224 = new List<int>();
             Boolean chk= true;

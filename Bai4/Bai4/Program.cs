@@ -10,6 +10,8 @@ namespace Bai4
     {
         static void Main(string[] args)
         {
+
+            //commit lan3
             int n_224, count_224=0;
             Console.WriteLine("Nhap n: ");
             n_224 = int.Parse(Console.ReadLine());

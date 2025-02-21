@@ -1,0 +1,7 @@
+E:\HOCKY2-NAM3\C#\Bai7\Bai7\bin\Debug\Bai7.exe.config
+E:\HOCKY2-NAM3\C#\Bai7\Bai7\bin\Debug\Bai7.exe
+E:\HOCKY2-NAM3\C#\Bai7\Bai7\bin\Debug\Bai7.pdb
+E:\HOCKY2-NAM3\C#\Bai7\Bai7\obj\Debug\Bai7.csproj.AssemblyReference.cache
+E:\HOCKY2-NAM3\C#\Bai7\Bai7\obj\Debug\Bai7.csproj.CoreCompileInputs.cache
+E:\HOCKY2-NAM3\C#\Bai7\Bai7\obj\Debug\Bai7.exe
+E:\HOCKY2-NAM3\C#\Bai7\Bai7\obj\Debug\Bai7.pdb

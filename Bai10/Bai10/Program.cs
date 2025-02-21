@@ -10,6 +10,7 @@ namespace Bai10
     {
         static void Main(string[] args)
         {
+            //commit lan3
             int a_224, b_224;
 
             Console.WriteLine("Nhap a: ");

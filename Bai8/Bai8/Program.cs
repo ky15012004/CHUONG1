@@ -10,6 +10,7 @@ namespace Bai8
     {
         static void Main(string[] args)
         {
+            //commit lan3
             int x_224, n_224, P_224 =0;
             double result_224 = 0;
 

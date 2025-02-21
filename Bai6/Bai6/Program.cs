@@ -10,6 +10,7 @@ namespace Bai6
     {
         static void Main(string[] args)
         {
+            //commit lan 3
             int n_224;
             List<int> soNguyen_224 = new List<int>();
             Console.WriteLine("Nhap n: ");

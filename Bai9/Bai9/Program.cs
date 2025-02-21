@@ -10,6 +10,7 @@ namespace Bai9
     {
         static void Main(string[] args)
         {
+            //commit lan3
             float a, b, c, max;
 
             Console.WriteLine("Nhap a: ");

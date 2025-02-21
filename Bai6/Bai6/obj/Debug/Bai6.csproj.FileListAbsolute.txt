@@ -1,0 +1,7 @@
+E:\HOCKY2-NAM3\C#\Bai6\Bai6\bin\Debug\Bai6.exe.config
+E:\HOCKY2-NAM3\C#\Bai6\Bai6\bin\Debug\Bai6.exe
+E:\HOCKY2-NAM3\C#\Bai6\Bai6\bin\Debug\Bai6.pdb
+E:\HOCKY2-NAM3\C#\Bai6\Bai6\obj\Debug\Bai6.csproj.AssemblyReference.cache
+E:\HOCKY2-NAM3\C#\Bai6\Bai6\obj\Debug\Bai6.csproj.CoreCompileInputs.cache
+E:\HOCKY2-NAM3\C#\Bai6\Bai6\obj\Debug\Bai6.exe
+E:\HOCKY2-NAM3\C#\Bai6\Bai6\obj\Debug\Bai6.pdb
